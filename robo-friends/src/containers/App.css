@@ -1,0 +1,15 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(./SEGA.TTF);
+ }
+ 
+
+
+header{
+
+font-family:myFirstFont;
+font-weight: 200;
+color: #0CCAC4;
+
+
+}
